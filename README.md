@@ -2,7 +2,7 @@
 
 **Bilingual (English/Tamil) RAG assistant for Tamil Nadu government schemes, built with FAISS, multilingual-e5 and Groq LLMs.**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DilliBabu/tn-scheme-rag-assistant/blob/main/TN_Scheme_RAG.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1DZGlcRKC6RRTwiz3lsP7OkxaxlaxE-WL/view?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Language](https://img.shields.io/badge/Languages-English%20%7C%20தமிழ்-orange)
